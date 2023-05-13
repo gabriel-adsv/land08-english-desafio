@@ -30,7 +30,7 @@ This project was developed using the technologies:
 ## 💻 Project
 In this project, the practices of CSS grid, animation, and keyframes were applied.
 
-- [Access the finished project online](https://gabriel-adsv.github.io/stage03-desafio-das-toupeiras/)
+- [Access the finished project online](https://gabriel-adsv.github.io/land08-english-desafio/)
 
 ## 📧 Contact
 - gabriel.aug.dsv@gmail.com
